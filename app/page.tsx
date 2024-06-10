@@ -192,8 +192,8 @@ export default function Home() {
         </div>
       </div>
 
-      <p className="px-16 pt-10">Q7. A customer writes in to the Helpdesk asking "How do I do a redirect from the /blog
-path to https://example.com?" Please write a reply to the customer. Feel free to add any
+      <p className="px-16 pt-10">Q7. A customer writes in to the Helpdesk asking - How do I do a redirect from the /blog
+path to https://example.com?. Please write a reply to the customer. Feel free to add any
 information about your decision making process after the reply.</p>
 <div className="px-16 opacity-75 font-normal text-sm ">
         Sample reply to customer: 

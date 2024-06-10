@@ -214,6 +214,7 @@ information about your decision making process after the reply.</p>
             <li>Add the following configuration to set up the redirect:</li>
             <Image
                 src="/Q7NextJS.png"
+                alt="Redirect using next config file"
                 className="dark:invert opacity-90"
                 width={500}
                 height={240}
@@ -229,6 +230,7 @@ information about your decision making process after the reply.</p>
             <li> Add the following configuration to set up the redirect:</li>
             <Image
                 src="/Q7.png"
+                alt="configuration to set redirect"
                 className="dark:invert opacity-90"
                 width={500}
                 height={240}
@@ -281,6 +283,7 @@ information about your decision making process after the reply.</p>
                 Example of how to inject the header using your framework&#39;s built-in methods:
                 <Image
                 src="/Q8RobotsTagbuiltin.png"
+                alt="Using built in header tags"
                 className="dark:invert opacity-90"
                 width={500}
                 height={240}
@@ -289,6 +292,7 @@ information about your decision making process after the reply.</p>
                 Example of how to modify the Header object in your vercel.json file:
                 <Image
                 src="/Q8VercelConfig.png"
+                alt="Header in JSON file"
                 className="dark:invert opacity-90"
                 width={270}
                 height={140}
@@ -301,6 +305,7 @@ information about your decision making process after the reply.</p>
                 Example of a robots.txt file that disallows all bots from crawling your site:
                 <Image
                 src="/Q8RobotsTxt.png"
+                alt="Using robots txt file"
                 className="dark:invert opacity-90"
                 width={200}
                 height={150}

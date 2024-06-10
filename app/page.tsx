@@ -354,11 +354,8 @@ and long-term? </p>
       around with that.<br></br>
       Other than that I enjoyed working on this exercise with mix of real world problems, debugging issues and 
       general aptitude questions. Thanks for considering me for the role and providing me with a chance to play 
-      around with vercel platform, use vercel AI embedded search in vercel documentation - helpful tool while working on the exercise
-      
+      around with vercel platform, use vercel AI embedded search in vercel documentation - helpful tool while working on the exercise      
   </div>
-
-
        </div>  
     </main>
   );
